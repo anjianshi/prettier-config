@@ -1,0 +1,14 @@
+{
+  "name": "@anjianshi/prettier-config",
+  "version": "1.0.0",
+  "description": "公共 Prettier 配置",
+  "homepage": "https://github.com/anjianshi/prettier-config.git",
+  "repository": "https://github.com/anjianshi/prettier-config.git",
+  "author": "anjianshi",
+  "license": "MIT",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  }
+}
